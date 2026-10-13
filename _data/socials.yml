@@ -1,0 +1,9 @@
+# Social links shown on the about page, in this order.
+# Full list of supported keys: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
+email: pablonorczyk@gmail.com
+github_username: pnorsim
+# linkedin_username: # your LinkedIn user name
+# orcid_id: # your ORCID ID
+# scholar_userid: # your Google Scholar ID
+rss_icon: false
